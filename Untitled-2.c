@@ -8,7 +8,7 @@ int main()
 
     printf("hello\n");
 
-    printf("hello\nbrijesh");
+    printf("hello\nbrijesh\n");
 
     printf("hello\nbrijesh");
 
